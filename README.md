@@ -65,31 +65,37 @@ Link do curso no Udemy: Curso Design Patterns em C#.
 - 19. Factory Method - A solução
 - 20. Factory Method - Como implementar - diagrama
 - 21. Factory Method - Exemplo em C#
+[Factory Method](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/FactoryMethodExecicioPratico)
 - 22. Exercício Prático - Factory Method - Desafio Hcode
 - 23. Abstract Factory - O problema
 - 24. Abstract Factory - A solução
 - 25. Abstract Factory - Como implementar - diagrama
 - 26. Abstract Factory - Exemplo em C#
+[Abstract Factory](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/AbstractFactory)
 - 27. Exercício Prático - Abstract Factory - Desafio Hcode
 - 28. Builder - O problema
 - 29. Builder - A solução
 - 30. Builder - Como implementar - diagrama
 - 31. Builder - Exemplo C#
+[Builder](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/Builder)
 - 32. Exercício Prático - Builder - Desafio Hcode
 - 33. Adapter - O problema
 - 34. Adapter - A solução
 - 35. Adapter - Como implementar - diagrama
 - 36. Adapter - Exemplo C#
+[Adpater](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/Adpater)
 - 37. Exercício Prático - Adapter - Desafio Hcode
 - 38. Bridge - O problema
 - 39. Bridge - A solução
 - 40. Bridge - Como implementar - diagrama
 - 41. Bridge - Exemplo C#
+[Bridge](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/Bridge)
 - 42. Exercício Prático - Bridge - Desafio Hcode
 - 43. Chain of Responsibility - O problema
 - 44. Chain of Responsibility - A solução
 - 45. Chain of Responsibility - Como implementar
 - 46. Chain of Responsibility - Exemplo C#
+[Chain of Responsibility](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/ChainOfResponsibility)
 - 47. Chain of Responsibility - Criando os handlers
 - 48. Exercício Prático - Chain Of Responsibility - Desafio Hcode
 - 49. Conclusão - Próximo passo

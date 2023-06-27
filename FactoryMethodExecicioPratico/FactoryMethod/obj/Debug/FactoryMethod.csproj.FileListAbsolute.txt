@@ -1,0 +1,14 @@
+D:\htdocs\design-patterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\htdocs\design-patterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\htdocs\design-patterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\htdocs\design-patterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+D:\htdocs\design-patterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\htdocs\design-patterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\htdocs\design-patterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\labs\DesignPatternscomCSharp\FactoryMethodExecicioPratico\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\labs\DesignPatternscomCSharp\FactoryMethodExecicioPratico\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\labs\DesignPatternscomCSharp\FactoryMethodExecicioPratico\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\labs\DesignPatternscomCSharp\FactoryMethodExecicioPratico\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\labs\DesignPatternscomCSharp\FactoryMethodExecicioPratico\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\labs\DesignPatternscomCSharp\FactoryMethodExecicioPratico\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\labs\DesignPatternscomCSharp\FactoryMethodExecicioPratico\FactoryMethod\obj\Debug\FactoryMethod.pdb
