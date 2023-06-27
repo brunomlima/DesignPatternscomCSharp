@@ -44,17 +44,22 @@ Link do curso no Udemy: Curso Design Patterns em C#.
 
 ## Conteúdo do curso e projetos com exemplos
 
-- 1. Introdução - Boas Vindas'
+- 1. Introdução - Boas Vindas
 - 2. O que é Design Pattern ou Padrão de Projeto?
 - 3. O que você aprenderá neste curso e o que não aprenderá
 - 4. Ambiente de Desenvolvimento: C# e Visual Studio 2019
 - 5. O que é um princípio da programação
 - 6. O Princípio SOLID
 - 7. S - Single Responsibility Principle - SRP
+ - [SRP](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/S)
 - 8. O - Open/Closed Principle - OCP
+- [OCP](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/O)
 - 9. L - Liskov Substitution Principle - LSP
+- [LSP](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/L)
 - 10. I - Interface Segregation Principle - ISP
+- [ISP](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/I)
 - 11. D - Dependency Inversion Principle - DIP
+- [DIP](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/D)
 - 12. Resumo da Seção
 - 13. A Origem do Design Pattern
 - 14. Gangue dos Quatro - Gang of Four (GoF)
