@@ -1,0 +1,6 @@
+C:\labs\DesignPatternscomCSharp\S\Srp\bin\Debug\Srp.exe.config
+C:\labs\DesignPatternscomCSharp\S\Srp\bin\Debug\Srp.exe
+C:\labs\DesignPatternscomCSharp\S\Srp\bin\Debug\Srp.pdb
+C:\labs\DesignPatternscomCSharp\S\Srp\obj\Debug\Srp.csproj.CoreCompileInputs.cache
+C:\labs\DesignPatternscomCSharp\S\Srp\obj\Debug\Srp.exe
+C:\labs\DesignPatternscomCSharp\S\Srp\obj\Debug\Srp.pdb

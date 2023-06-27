@@ -1,0 +1,13 @@
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\bin\Debug\Ocp.exe.config
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\bin\Debug\Ocp.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\bin\Debug\Ocp.pdb
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\obj\Debug\Ocp.csprojAssemblyReference.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\obj\Debug\Ocp.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\obj\Debug\Ocp.pdb
+C:\labs\DesignPatternscomCSharp\O\Ocp\bin\Debug\Ocp.exe.config
+C:\labs\DesignPatternscomCSharp\O\Ocp\bin\Debug\Ocp.exe
+C:\labs\DesignPatternscomCSharp\O\Ocp\bin\Debug\Ocp.pdb
+C:\labs\DesignPatternscomCSharp\O\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+C:\labs\DesignPatternscomCSharp\O\Ocp\obj\Debug\Ocp.exe
+C:\labs\DesignPatternscomCSharp\O\Ocp\obj\Debug\Ocp.pdb

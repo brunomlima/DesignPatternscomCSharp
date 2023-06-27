@@ -1,0 +1,13 @@
+D:\htdocs\design-patterns\design-patterns-cs\solid\Lsp\bin\Debug\Lsp.exe.config
+D:\htdocs\design-patterns\design-patterns-cs\solid\Lsp\bin\Debug\Lsp.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Lsp\bin\Debug\Lsp.pdb
+D:\htdocs\design-patterns\design-patterns-cs\solid\Lsp\obj\Debug\Lsp.csprojAssemblyReference.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Lsp\obj\Debug\Lsp.csproj.CoreCompileInputs.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Lsp\obj\Debug\Lsp.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Lsp\obj\Debug\Lsp.pdb
+C:\labs\DesignPatternscomCSharp\L\Lsp\bin\Debug\Lsp.exe.config
+C:\labs\DesignPatternscomCSharp\L\Lsp\bin\Debug\Lsp.exe
+C:\labs\DesignPatternscomCSharp\L\Lsp\bin\Debug\Lsp.pdb
+C:\labs\DesignPatternscomCSharp\L\Lsp\obj\Debug\Lsp.csproj.CoreCompileInputs.cache
+C:\labs\DesignPatternscomCSharp\L\Lsp\obj\Debug\Lsp.exe
+C:\labs\DesignPatternscomCSharp\L\Lsp\obj\Debug\Lsp.pdb
