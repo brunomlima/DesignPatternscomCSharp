@@ -83,7 +83,7 @@ Link do curso no Udemy: Curso Design Patterns em C#.
 - 34. Adapter - A solução
 - 35. Adapter - Como implementar - diagrama
 - 36. Adapter - Exemplo C#
-[Adpater](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/Adpater)
+[Adapter](https://github.com/brunomlima/DesignPatternscomCSharp/tree/main/Adapter)
 - 37. Exercício Prático - Adapter - Desafio Hcode
 - 38. Bridge - O problema
 - 39. Bridge - A solução
