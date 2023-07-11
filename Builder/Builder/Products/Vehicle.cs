@@ -9,6 +9,13 @@ namespace Builder.Products
         private int seats;
         private Engine engine;
         private Transmission transmission;
+        private AirBag airBag;
+
+        public AirBag AirBag
+        {
+            get => airBag;
+            set => airBag = value;
+        }
 
         public VehicleType VehicleType
         {

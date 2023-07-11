@@ -6,7 +6,8 @@
         SEDAN,
         SPORTCAR,
         PICKUPTRUCK,
-        TRUCK
+        TRUCK,
+        SUV
 
     }
 }

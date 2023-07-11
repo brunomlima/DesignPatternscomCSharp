@@ -19,6 +19,11 @@ namespace Builder.Builders
             vehicle = new Vehicle();
         }
 
+        public void SetAirBag(AirBag airBag)
+        {
+            vehicle.AirBag = airBag;
+        }
+
         public void SetEngine(Engine engine)
         {
             vehicle.Engine = engine;

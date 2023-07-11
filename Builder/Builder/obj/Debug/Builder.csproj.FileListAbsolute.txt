@@ -5,3 +5,9 @@ D:\htdocs\design-patterns\DesignPatterns\Builder\bin\Debug\Builder.exe
 D:\htdocs\design-patterns\DesignPatterns\Builder\bin\Debug\Builder.pdb
 D:\htdocs\design-patterns\DesignPatterns\Builder\obj\Debug\Builder.exe
 D:\htdocs\design-patterns\DesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\labs\DesignPatternscomCSharp\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\labs\DesignPatternscomCSharp\Builder\Builder\obj\Debug\Builder.exe
+C:\labs\DesignPatternscomCSharp\Builder\Builder\obj\Debug\Builder.pdb
+C:\labs\DesignPatternscomCSharp\Builder\Builder\bin\Debug\Builder.exe.config
+C:\labs\DesignPatternscomCSharp\Builder\Builder\bin\Debug\Builder.exe
+C:\labs\DesignPatternscomCSharp\Builder\Builder\bin\Debug\Builder.pdb

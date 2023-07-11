@@ -8,7 +8,7 @@ namespace Builder
     class Program
     {
         static void Main(string[] args)
-        { 
+        {
 
             VehicleBuilder builder = new VehicleBuilder();
             Director director = new Director(builder);
@@ -24,6 +24,12 @@ namespace Builder
             Vehicle truck = builder.GetVehicle();
 
             Console.WriteLine($"Criado uma veículo do tipo: {truck.VehicleType}");
+
+            director.ConstructSUV();
+
+            Vehicle suv = builder.GetVehicle();
+
+            Console.WriteLine($"Criado uma veículo do tipo: {suv.VehicleType}");
 
             Console.ReadLine();
 
