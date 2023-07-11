@@ -5,3 +5,10 @@ D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFacto
 D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
 D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
 D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\labs\DesignPatternscomCSharp\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\labs\DesignPatternscomCSharp\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\labs\DesignPatternscomCSharp\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\labs\DesignPatternscomCSharp\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\labs\DesignPatternscomCSharp\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\labs\DesignPatternscomCSharp\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\labs\DesignPatternscomCSharp\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
